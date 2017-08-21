@@ -4,6 +4,7 @@
 #include "PlateLocate.hpp"
 #include "CommonHead.hpp"
 #include "HelpFun.hpp"
+#include "Extra_Fun.h"
 using namespace std;
 using namespace cpr;
 
