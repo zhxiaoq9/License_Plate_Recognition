@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////
+//Name:			PreProcess header
+//Date:			2017-05-15
+//Author:		ZhangXiaoqiang
+//Version:		1.0
+//Description:	
+////////////////////////////////////////////////////////////
+
+#ifndef __COMMON_HEAD__
+#define __COMMON_HEAD__
+
+//#include <opencv2/opencv.hpp>
+#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
+#include "opencv2/core/core.hpp"
+
+using namespace cv;
+
+#endif
